@@ -7,20 +7,20 @@ Trabalho com principalmente com Python, C e MATLAB, desenvolvendo projetos que e
     <img 
         alt="Total de Vizualizações" 
         title="Total de Vizualizações Github" 
-        src="https://komarev.com/ghpvc/?username=lucas-yuuki&label=PROFILE%20VIEWS&style=for-the-badge&color=ffa500&labelColor=cc8400"
+        src="https://komarev.com/ghpvc/?username=lucas-yuuki-sasaki&label=PROFILE%20VIEWS&style=for-the-badge&color=ffa500&labelColor=cc8400"
         />
-    <a href="https://github.com/lucas-yuuki?tab=repositories&sort=stargazers">
+    <a href="https://github.com/lucas-yuuki-sasaki?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/lucas-yuuki?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/lucas-yuuki-sasaki?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/lucas-yuuki?tab=followers">
+    <a href="https://github.com/lucas-yuuki-sasaki?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/lucas-yuuki?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/lucas-yuuki-sasaki?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
 </p>
